@@ -4342,7 +4342,7 @@ function Library:Window(B)
                 eH = true
                 by:Notify(
                     {
-                        Title = "Dummy UI",
+                        Title = "Carrot Hub",
                         Desc = 'Press the <font color="#FF77A5" size="14">(' ..
                             tostring(aZ):gsub("Enum.KeyCode.", "") .. ")</font> button to hide and show the UI",
                         Time = 10
