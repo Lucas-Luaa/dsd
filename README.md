@@ -8,14 +8,14 @@ local a = {
 	["Shadow"] = Color3.fromRGB(15, 15, 15),
 	["Background"] = Color3.fromRGB(20, 20, 20),
 	["Page"] = Color3.fromRGB(18, 18, 18),
-	["Main"] = Color3.fromRGB(212, 175, 55),
+	["Main"] = Color3.fromRGB(50, 50, 50),
 	["Text & Icon"] = Color3.fromRGB(230, 230, 230),
 	["Function"] = {
 		["Toggle"] = {
 			["Background"] = Color3.fromRGB(25, 25, 25),
 			["True"] = {
 				["Toggle Background"] = Color3.fromRGB(40, 40, 40),
-				["Toggle Value"] = Color3.fromRGB(212, 175, 55)
+				["Toggle Value"] = Color3.fromRGB(70, 130, 180)
 			},
 			["False"] = {
 				["Toggle Background"] = Color3.fromRGB(30, 30, 30),
